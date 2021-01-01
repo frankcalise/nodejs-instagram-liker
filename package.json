@@ -1,0 +1,13 @@
+{
+  "name": "nodejs-instagram-liker",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Frank Calise <fcalise@gmail.com> (https://frankcalise.com/)",
+  "license": "MIT",
+  "dependencies": {
+    "selenium-webdriver": "4.0.0-alpha.8"
+  },
+  "scripts": {
+    "start": "node index.js"
+  }
+}
