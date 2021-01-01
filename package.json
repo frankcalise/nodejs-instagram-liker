@@ -5,6 +5,7 @@
   "author": "Frank Calise <fcalise@gmail.com> (https://frankcalise.com/)",
   "license": "MIT",
   "dependencies": {
+    "dotenv": "8.2.0",
     "selenium-webdriver": "4.0.0-alpha.8"
   },
   "scripts": {
